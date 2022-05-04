@@ -1,1 +1,8 @@
-Hello world.
+= CV
+include::authors.adoc[]
+== References
+
+:bibliography-database: bibtex.bib
+:bibliography-style: apa
+
+bibliography::[]
