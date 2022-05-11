@@ -3,7 +3,7 @@ include::authors.adoc[]
 
 Gabriel Rodrigues is B.sc/M.Sc in Computer Science, MBA in Project Management, has worked for 10 years in the software development industry and is a Ph.D. Candidate, in the Department of Computer Science at the University of Brasília, under the supervision of Doc. Genaína Rodrigues. Gabriel is working on Software Engineering for Heterogeneous Robots.
 
-...
+... 
 == References
 
 :bibliography-database: bibtex.bib
